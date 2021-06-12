@@ -1,5 +1,21 @@
 # Controllability of Complex Networks
 
+# Control theory
+![](./pendulum.gif)
+
+# Networks
+> To avoid the brute-force search for driver nodes, we proved that the
+minimum number of inputs or driver nodes needed to maintain full
+control of the network is determined by the ‘maximum matching’ in
+the network, that is, the maximum set of links that do not share start
+or end nodes. A node is said to be matched if a link in the
+maximum matching points at it; otherwise it is unmatched. [..] the structural controllability
+problem maps into an equivalent geometrical problem on a network:
+we can gain full control over a directed network if and only if we
+directly control each unmatched node and there are directed paths
+from the input signals to all matched nodes. [5]
+
+![](./star_net.png)
 ## References
 [1] Brunton, S., & Kutz, J. (2019). _Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control._ Cambridge: Cambridge University Press. doi:10.1017/9781108380690  
 [2] Brunton, S, (2017). _Linear Quadratic Regulator (LQR) Control for the Inverted Pendulum on a Cart [Control Bootcamp]_, https://www.youtube.com/watch?v=1_UobILf3cc  
