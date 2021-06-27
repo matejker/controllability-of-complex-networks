@@ -24,4 +24,5 @@ from the input signals to all matched nodes. [5]
 [5] Liu, Y. Y., Slotine, J. J. & Barabási, A. L. (2011), _Controllability of complex networks._ Nature 473, 167–173. https://doi.org/10.1038/nature10011   
 [6] Baggio, G., Bassett, D.S. & Pasqualetti, F. (2021), _Data-driven control of complex networks._ Nat Commun 12, 1429. https://doi.org/10.1038/s41467-021-21554-0  
 [7] Sun, Jie and Motter, Adilson E. (2013), _Controllability Transition and Nonlocality in Network Control_, https://link.aps.org/doi/10.1103/PhysRevLett.110.208701  
-[8] Cornelius, S., Kath, W. & Motter, A. (2013), _Realistic control of network dynamics._ Nat Commun 4, 1942 . https://doi.org/10.1038/ncomms2939
+[8] Cornelius, S., Kath, W. & Motter, A. (2013), _Realistic control of network dynamics._ Nat Commun 4, 1942 . https://doi.org/10.1038/ncomms2939  
+[9] Recht, B. (2018)_A Tour of Reinforcement Learning: The View from Continuous Control_, 1806.09460, https://arxiv.org/abs/1806.09460  
