@@ -15,6 +15,12 @@ we can gain full control over a directed network if and only if we
 directly control each unmatched node and there are directed paths
 from the input signals to all matched nodes. [5]
 
+## Notebooks
+- [Inverted pendulum on a cart](./notebooks/00_inverted_pendulum_on_a_cart.ipynb)
+- [Controlling a line network](./notebooks/01_line-network.ipynb) 
+- [Dynamical Mode Decomposition on networks](./notebooks/02_dynamical_mode_decomposition.ipynb)
+g
+
 ![](./star_net.png)
 ## References
 [1] Brunton, S., & Kutz, J. (2019). _Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control._ Cambridge: Cambridge University Press. doi:10.1017/9781108380690  
