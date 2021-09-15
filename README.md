@@ -1,8 +1,6 @@
 # Controllability of Complex Networks
 
 # Control theory
-![](./pendulum.gif)
-
 # Networks
 > To avoid the brute-force search for driver nodes, we proved that the
 minimum number of inputs or driver nodes needed to maintain full
@@ -19,7 +17,8 @@ from the input signals to all matched nodes. [5]
 - [Inverted pendulum on a cart](./notebooks/00_inverted_pendulum_on_a_cart.ipynb)
 - [Controlling a line network](./notebooks/01_line-network.ipynb) 
 - [Dynamical Mode Decomposition on networks](./notebooks/02_dynamical_mode_decomposition.ipynb)
-g
+- [Network oscilators](./notebooks/03_network_oscilators.ipynb)  
+- [Data driven control](./notebooks/04_data_driven_control_baggio.ipynb)
 
 ![](./star_net.png)
 ## References
@@ -32,3 +31,4 @@ g
 [7] Sun, Jie and Motter, Adilson E. (2013), _Controllability Transition and Nonlocality in Network Control_, https://link.aps.org/doi/10.1103/PhysRevLett.110.208701  
 [8] Cornelius, S., Kath, W. & Motter, A. (2013), _Realistic control of network dynamics._ Nat Commun 4, 1942 . https://doi.org/10.1038/ncomms2939  
 [9] Recht, B. (2018)_A Tour of Reinforcement Learning: The View from Continuous Control_, 1806.09460, https://arxiv.org/abs/1806.09460  
+[10] Strogatz, S.H. (2015). _Nonlinear Dynamics and Chaos: With Applications to Physics, Biology, Chemistry, and Engineering (2nd ed.)_. CRC Press  
